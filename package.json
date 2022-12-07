@@ -25,7 +25,7 @@
     "js-yaml": "^3.13.1",
     "node-worker-threads-pool": "^1.1.2",
     "request": "^2.88.0",
-    "simple-git": "^1.131.0",
+    "simple-git": "^3.15.0",
     "smee-client": "^1.1.0",
     "worker-threads": "^1.0.0"
   }
